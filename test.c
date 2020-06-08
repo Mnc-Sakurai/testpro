@@ -1,4 +1,4 @@
-main()
+void main()
 {
-printf "ãƒ†ã‚¹ãƒˆ\n";
+ printf "ƒeƒXƒg\n";
 }

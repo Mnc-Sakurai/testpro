@@ -1,3 +1,3 @@
 function ohayou() {
-  alert("В±ВсВњВЌ");
+  alert("В±ВсВњВЌБI");
 }

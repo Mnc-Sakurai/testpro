@@ -1,1 +1,6 @@
-‚ ‚ª‚ªrga
+#include <stdio.h>
+main()
+{
+	printf ("test‚ ");
+}
+
